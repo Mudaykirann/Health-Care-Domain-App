@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Maria",
+      "password": "maria12345",
+      "gender": "F",
+      "dob": "1996-01-01",
+      "email": "maria@gmail.com",
+      "number": 1234567890,
+      "pincode": 123456,
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India"
+    }
+  ],
+  "coaches": [
+    {
+      "id": "1",
+      "name": "Rose",
+      "password": "rose12345",
+      "gender": "female",
+      "dob": "1996-01-01",
+      "number": 1234567890,
+      "speciality": "Confidence Issues"
+    }
+  ],
+  "bookings": []
+}
