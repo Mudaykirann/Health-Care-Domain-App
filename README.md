@@ -20,8 +20,8 @@ A simple health care react application that uses CRUD operations for users and o
 <h3>JSON</h3>
 <p>I used JSON file to temporarily store the client side data</p>
 <h2>INstallation</h2>
-<b>npm install -g json-server</b> <br/>
-<b>npx json-server --watch db.json --port 8082 </b> <br/>
+<b>>> npm install -g json-server</b> <br/>
+<b>>> npx json-server --watch db.json --port 8082 </b> <br/>
 <p>By following the above two steps we can be able to bring the json file to our server</p>
 
 <p>git clone https://github.com/Mudaykirann/Health-Care-Domain-App.git</p>
