@@ -7,7 +7,8 @@ A simple health care react application that uses CRUD operations for users and o
 <h3>REACT JS</h3>
 <h3>TAILWIND CSS</h3>
 <h3>JSON</h3>
-# Features
+<br/>
+<h2>Features . ✨</h2>
 <ol>
   <li>Uses CRUD operations.</li>
   <li>User Freindly</li>
@@ -16,14 +17,14 @@ A simple health care react application that uses CRUD operations for users and o
 </ol>
 
 # Usage
-<h1>JSON</h1>
+<h3>JSON</h3>
 <p>I used JSON file to temporarily store the client side data</p>
 <h2>INstallation</h2>
-<b>npm install -g json-server</b>
-<b>npx json-server --watch db.json --port 8082 </b>
+<b>npm install -g json-server</b> <br/>
+<b>npx json-server --watch db.json --port 8082 </b> <br/>
 <p>By following the above two steps we can be able to bring the json file to our server</p>
 
-<h2>git clone https://github.com/Mudaykirann/Health-Care-Domain-App.git</h2>
+<p>git clone https://github.com/Mudaykirann/Health-Care-Domain-App.git</p>
 
 Currently, two official plugins are available:
 
